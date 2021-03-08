@@ -1,0 +1,17 @@
+
+.navStyle{
+    background-color: black;
+    line-height: 40px;
+    font-size: 25px;
+    padding : 10px;
+    margin : 10px; 
+
+       }   
+       
+.navStyle a{
+
+    color: white;
+    text-decoration:none;
+    padding: 10px;
+}
+  
